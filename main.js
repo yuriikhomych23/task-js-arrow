@@ -1,10 +1,10 @@
 //TASK 1
 
-// let fab = a => {
-//     return (a >= 1) ? a : fab(a - 1) + fab (a - 2);
+// let fib = a => {
+//     return (a >= 1) ? a : fib(a - 1) + fib (a - 2);
 // }
 
-// console.log( fab (20) )
+// console.log(fib (20));
 
 
 // TASK 2
@@ -26,5 +26,3 @@
 // simpleNumbers(ask1, ask2);
 
 
-
- 
